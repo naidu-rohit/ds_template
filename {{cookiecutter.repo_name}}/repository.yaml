@@ -1,0 +1,6 @@
+repository:
+  module: {{cookiecutter.package_name}}.repository
+  fn: define_repo
+# scheduler:
+#   file: {{cookiecutter.package_name}}.etl.schedules.schedules.py
+#   fn: define_scheduler
