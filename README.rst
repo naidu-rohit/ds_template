@@ -2,7 +2,7 @@
 Cookiecutter Template
 =============================
 
-A `Cookiecutter <https://github.com/audreyr/cookiecutter>`_ template for DS projects.
+A `Cookiecutter`_ template for DS projects.
 
 .. contents:: Table of Contents
    :depth: 2
@@ -26,7 +26,7 @@ Usage
 .. code::
 
     $ pip install cookiecutter
-    $ cookiecutter https://github.com/khornlund/cookiecutter_ds
+    $ cookiecutter .
     $ cd path/to/repo
 
 A template project has now been created! 

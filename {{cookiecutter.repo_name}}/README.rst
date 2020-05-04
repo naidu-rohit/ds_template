@@ -15,6 +15,3 @@
 11. Use MLFlow for tracking experiments.
 12. Use Dagster to create End-to-End pipelines.
 13. Run this entire setup on a VM with entire data.
-
-dagster pipeline execute -f pipelines.py -n preprocess_pipeline -e ./configs/preprocess.yaml
-dagster pipeline execute -f pipelines.py -n feature_eng_pipeline -e ./configs/features.yaml
